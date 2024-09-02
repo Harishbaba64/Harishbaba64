@@ -1,22 +1,39 @@
-  ## Hi 👋 I am Harish
+<h1 align="center">Hi 👋, I'm HARISH</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Harishbaba64&icon=5&color=10)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishbaba64&label=Profile%20views&color=0e75b6&style=flat" alt="harishbaba64" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishbaba64" alt="harishbaba64" /></a> </p>
 
+- 🔭 I’m currently working on **Django**
 
-<br>🔭 I’m currently working on:<br>Developing web applications using Django, focusing on backend logic and database management.<br><br>👯 I’m looking to collaborate on:<br>Open-source Django projects, machine learning applications, or any interesting Python-based projects.<br><br>🤝 I’m looking for help with:<br>Advanced front-end development and UI/UX design to complement my backend skills.<br><br>🌱 I’m currently learning:<br>Deepening my knowledge in Django REST framework and exploring advanced topics in Natural Language Processing (NLP).<br><br>💬 Ask me about:<br>Python, Django, Machine Learning, or how to get started with web development.<br><br>⚡ Fun fact:<br>I’ve contributed over 350 coding problems to CodeChef and LeetCode, and I love cracking algorithmic challenges in my free time!
+- 🌱 I’m currently learning **Deepening my knowledge in Django REST framework and exploring advanced topics in Natural Language Processing (NLP).**
 
+- 👯 I’m looking to collaborate on **Open-source Django projects, machine learning applications, or any interesting Python-based projects.**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thehystericalharish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harish.N ) 
+- 🤝 I’m looking for help with **Advanced front-end development and UI/UX design to complement my backend skills.**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harishbaba64&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harishbaba64&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishbaba64&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+- 👨‍💻 All of my projects are available at [https://github.com/Harishbaba64](https://github.com/Harishbaba64)
 
----
+- 💬 Ask me about **Python, Django, Machine Learning, or how to get started with web development.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **harishbaba64@gmail.com**
+
+- ⚡ Fun fact **I’ve contributed over 350 coding problems to CodeChef and LeetCode, and I love cracking algorithmic challenges in my free time**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harish.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish.n" height="30" width="40" /></a>
+<a href="https://instagram.com/thehystericalharish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thehystericalharish" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thehysterticalharish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thehysterticalharish" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harishbaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harishbaba" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishbaba64&show_icons=true&locale=en&layout=compact" alt="harishbaba64" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishbaba64&show_icons=true&locale=en" alt="harishbaba64" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishbaba64&" alt="harishbaba64" /></p>
