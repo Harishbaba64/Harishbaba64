@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Deepening my knowledge in Django REST framework and exploring advanced topics in Natural Language Processing (NLP).**
+- 🌱 I’m currently learning ** Django REST framework and exploring advanced topics in Natural Language Processing (NLP).**
 
 - 👯 I’m looking to collaborate on **Open-source Django projects, machine learning applications, or any interesting Python-based projects.**
 
